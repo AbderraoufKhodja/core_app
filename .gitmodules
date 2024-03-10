@@ -1,0 +1,3 @@
+[submodule "lib/fibali_core"]
+	path = lib/fibali_core
+	url = https://github.com/AbderraoufKhodja/fibali_core.git
